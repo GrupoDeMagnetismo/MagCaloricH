@@ -38,7 +38,7 @@ main {
 
 .image-container img {
     width: 100%;
-    max-width: 600px;
+    max-width: 400px;
     height: auto;
     border-radius: 8px;
     box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
@@ -49,6 +49,27 @@ main {
     max-width: 800px;
     margin: auto;
     padding: 20px;
+}
+
+/* Estilo para la lista numerada */
+ol {
+    padding-left: 20px; /* Agregar espacio al lado izquierdo */
+}
+
+/* Estilo para cada ítem de la lista */
+li {
+    margin-bottom: 15px; /* Espacio entre los ítems */
+}
+
+/* Estilo para los enlaces */
+a {
+    text-decoration: none; /* Elimina el subrayado del enlace */
+    color: #007bff; /* Cambia el color del enlace */
+}
+
+/* Estilo al pasar el ratón por encima */
+a:hover {
+    text-decoration: underline; /* Subraya el enlace al pasar el ratón */
 }
 
 footer {
