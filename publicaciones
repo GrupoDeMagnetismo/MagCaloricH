@@ -25,9 +25,15 @@
         <section class="publicaciones">
             <h2>Publicaciones</h2>
             <ul>
-                <p>
-  Padrón-Alemán, K., Rivas, M., Martínez-García, J.C., Álvarez-Alonso, P., Gorria, P., Belo, J.H., dos Santos, A.M., & Sánchez Llamazares, J.L. (2025). Study of the magnetoelastic phase transition in near equiatomic FeRh alloys through T-FORC analysis and neutron diffraction. <i>Journal of Alloys and Compounds, 1010</i>, 177876. https://doi.org/10.1016/j.jallcom.2024.177876
-</p>
+                <li>
+                  Padrón-Alemán, K., Rivas, M., Martínez-García, J.C., Álvarez-Alonso, P., Gorria, P., Belo, J.H., dos Santos, A.M., & Sánchez Llamazares, J.L. (2025). Study of the magnetoelastic phase transition in near equiatomic FeRh alloys through T-FORC analysis and neutron diffraction. <i>Journal of Alloys and Compounds, 1010</i>, 177876. https://doi.org/10.1016/j.jallcom.2024.177876
+                </li><li>
+                  Guel-Rodríguez, M., Zamora, J., Sánchez-Valdés, C.F., Sánchez Llamazares, J.L., & Álvarez-Alonso, P. (2024). Assessing rapid solidification processing to produce magnetocaloric RFeSi alloys (R= Tb, Dy) for natural gas liquefaction. <i>Journal of Alloys and Compounds, 978</i>, 173452. https://doi.org/10.1016/j.jallcom.2024.173452
+                </li><li>
+                  Garrido-Álvarez, J.L., Álvarez-Alonso, P., Sánchez-Valdés, C.F., Blanco, J.A., Gorria, P., & Sánchez Llamazares, J.L. (2024). Exploring the magnetic and magnetocaloric behavior of nanocrystalline melt-spun R2Fe17 (R = Pr, Nd) ribbons. <i>Journal of Alloys and Compounds, 979</i>, 173575. https://doi.org/10.1016/j.jallcom.2024.173575
+                </li><li>
+                 López-García, J., Khanna, D.L.R., Sánchez Llamazares, J.L., Álvarez-Alonso, P., La Roca, P., Recarte, V., Sánchez-Alarcos, V., Pérez-Landazábal, J.I., & Rodríguez-Velamazán, J.A. (2024). Magnetic structure analysis of the L21-type austenite in Ni–Mn–In alloys. <i>Intermetallics, 168</i>, 108242. https://doi.org/10.1016/j.intermet.2024.108242
+                </li>
             </ul>
         </section>
     </main>
