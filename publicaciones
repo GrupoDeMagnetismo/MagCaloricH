@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Publicaciones - MagCaloricH</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>MagCaloricH</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Inicio</a></li>
+                <li><a href="noticias.html">Noticias</a></li>
+                <li><a href="miembros.html">Miembros</a></li>
+                <li><a href="enlaces.html">Enlaces</a></li>
+                <li><a href="#contacto">Contacto</a></li>
+                <li><a href="publicaciones.html">Publicaciones</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <main>
+        <section class="publicaciones">
+            <h2>Publicaciones</h2>
+            <ul>
+                <p>
+  Padrón-Alemán, K., Rivas, M., Martínez-García, J.C., Álvarez-Alonso, P., Gorria, P., Belo, J.H., dos Santos, A.M., & Sánchez Llamazares, J.L. (2025). Study of the magnetoelastic phase transition in near equiatomic FeRh alloys through T-FORC analysis and neutron diffraction. <i>Journal of Alloys and Compounds, 1010</i>, 177876. https://doi.org/10.1016/j.jallcom.2024.177876
+</p>
+            </ul>
+        </section>
+    </main>
+    
+    <footer>
+        <p>&copy; 2025 MagCaloricH</p>
+        <div class="contacto" id="contacto">
+            <p>Contacto: Pablo Álvarez-Alonso - <a href="mailto:alvarezapablo@uniovi.es">alvarezapablo@uniovi.es</a></p>
+            <p><a href="https://nanobioap.org/uniovi_magnes/" target="_blank">Grupo de Investigación</a></p>
+        </div>
+    </footer>
+</body>
+</html>
