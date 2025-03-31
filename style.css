@@ -70,8 +70,9 @@
     .image-pair {
         display: flex;
         justify-content: center;
-        gap: 20px;
+        gap: 40px;
         margin-bottom: 30px;
+        margin-top: 30px;
     }
     .image-pair img, .image-gallery img {
         max-width: 20%;
