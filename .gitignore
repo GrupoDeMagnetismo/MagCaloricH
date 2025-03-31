@@ -1,0 +1,16 @@
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de compilación (si usas Jekyll o Hugo)
+_site/
+public/
+
+# Dependencias de Node.js (si usas algún framework)
+node_modules/
+package-lock.json
+
+# Archivos temporales de editores
+*.log
+*.swp
+*.swo
