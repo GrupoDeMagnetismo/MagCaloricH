@@ -64,16 +64,17 @@ body {
             color: #fff;
             text-decoration: none;
         }
-.imagenes {
-    text-align: center;
-    margin-top: 20px;
-}
-
-.imagenes img {
-    width: 80%;  /* Ajusta el tamaño */
-    max-width: 500px;
-    border-radius: 8px;
-    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
-    margin: 10px;
+            .imagenes {
+                text-align: center;
+                margin-top: 20px;
+            }
+            
+            .imagenes img {
+                width: 80%;  /* Ajusta el tamaño */
+                max-width: 500px;
+                border-radius: 8px;
+                box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+                margin: 10px;
+            }
 }
 
