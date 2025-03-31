@@ -72,6 +72,14 @@
             color: #fff;
             text-decoration: none;
         }
+        .publicaciones ol {
+            padding-left: 20px; /* Mantiene el margen izquierdo */
+        }
+
+        .publicaciones ol li {
+            margin-bottom: 20px; /* Aumenta el espaciado entre elementos */
+            line-height: 1.6; /* Mejora la legibilidad */
+        }
     </style>
 </head>
 <body>
@@ -111,4 +119,11 @@
     </footer>
 </body>
 </html>
+.publicaciones ol {
+    padding-left: 20px; /* Mantiene el margen izquierdo */
+}
 
+.publicaciones ol li {
+    margin-bottom: 20px; /* Aumenta el espaciado entre elementos */
+    line-height: 1.6; /* Mejora la legibilidad */
+}
