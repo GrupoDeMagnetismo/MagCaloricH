@@ -72,7 +72,7 @@
         justify-content: center;
         gap: 40px;
         margin-bottom: 5px;
-        margin-top: 20px;
+        margin-top: 5px;
     }
     .image-pair img, .image-gallery img {
         max-width: 55%;
