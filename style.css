@@ -56,7 +56,11 @@ main {
     max-width: 100%;
     margin-bottom: 30px;
 }
-.image-item img, .image-gallery img {
+
+.image-gallery img{
+max-width: 100%;
+}
+.image-item img {
     display: flex;
     flex-wrap: wrap;
     max-width: 20%;
