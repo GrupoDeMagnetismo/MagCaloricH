@@ -59,6 +59,8 @@ main {
 
 .image-gallery img{
 max-width: 100%;
+flex-wrap: wrap;
+    height: auto;
 }
 .image-item img {
     display: flex;
