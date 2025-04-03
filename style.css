@@ -59,7 +59,7 @@ main {
 .image-item img, .image-gallery img {
     justify-content: center;
     display: flex;
-    flex-wrap: wrap;
+    /*flex-wrap: wrap;*/
     max-width: 60%;
     height: auto;
     border-radius: 8px;
