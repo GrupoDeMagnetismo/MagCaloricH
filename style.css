@@ -63,12 +63,13 @@ main {
     margin-bottom: 30px;
 }
 .image-pair img, .image-gallery img {
-    max-width: 30%;
+    max-width: 60%;
     height: auto;
     border-radius: 8px;
     box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
     transition: transform 1.0s ease;
     margin-bottom: 30px;
+    margin-top: 30px;
 }
 .image-pair img:hover, .image-gallery img:hover {
     transform: scale(1.1);
@@ -80,7 +81,6 @@ main {
     display: flex;
     justify-content: center;
     gap: 50px;
-    margin-bottom: 50px;
 }
 
 .image-item {
@@ -89,11 +89,12 @@ main {
 }
 
 .image-item img {
-    width: 30%;
+    width: 50%;
     height: auto;
     border-radius: 8px;
     box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
     transition: transform 1.0s ease;
+    margin-bottom: 50px;
 }
 
 .image-item img:hover {
@@ -101,11 +102,7 @@ main {
     z-index: 10;
 }
 
-/* Image Item */
-.image-item {
-    text-align: center; 
-    max-width: 350px;
-}
+
 .image-item p {
     margin-top: 10px;
     font-size: 1.1em;
