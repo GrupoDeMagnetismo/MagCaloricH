@@ -76,7 +76,7 @@ main {
 .image-gallery2 {
     display: flex;
     justify-content: center;
-    gap: 30px;
+    gap: 50px;
     align-items: center; /* Centra las imágenes */
 }
 
