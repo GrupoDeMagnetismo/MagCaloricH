@@ -63,11 +63,12 @@ main {
     margin-bottom: 30px;
 }
 .image-pair img, .image-gallery img {
-    max-width: 50%;
+    max-width: 30%;
     height: auto;
     border-radius: 8px;
     box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
     transition: transform 1.0s ease;
+    margin-bottom: 30px;
 }
 .image-pair img:hover, .image-gallery img:hover {
     transform: scale(1.1);
@@ -172,7 +173,7 @@ footer {
 }
 
 /* News */
-.News {
+.news article {
     text-align: left;
 }
 
