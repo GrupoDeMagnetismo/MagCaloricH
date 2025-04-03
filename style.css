@@ -62,7 +62,7 @@ main {
     margin-bottom: 30px;
 }
 .image-item img, .image-gallery img {
-    max-width: 60%;
+    max-width: 40%;
     height: auto;
     border-radius: 8px;
     box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
@@ -92,7 +92,7 @@ main {
 }
 
 .image-pair img {
-    width: 40%;
+    width: 60%;
     height: auto;
     border-radius: 8px;
     box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
