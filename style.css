@@ -53,13 +53,13 @@ main {
     justify-content: center;
     gap: 20px;
     flex-wrap: wrap;	/*Si no lo pongo, la caption se pone en la siguiente columna*/
-    max-width: 65%;
+    max-width: 75%;
     margin-bottom: 30px;
 }
 .image-item img, .image-gallery img {
     display: flex;
     flex-wrap: wrap;
-    max-width: 60%;
+    max-width: 30%;
     height: auto;
     border-radius: 8px;
     box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
