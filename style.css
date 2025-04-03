@@ -50,13 +50,14 @@ main {
 /* Image Gallery */
 .image-item {
     display: flex;
-    justify-content: center;
+    /*justify-content: center;*/
     gap: 20px;
     flex-wrap: wrap;	/*Si no lo pongo, la caption se pone en la siguiente columna*/
     max-width: 45%;
     margin-bottom: 30px;
 }
 .image-item img, .image-gallery img {
+    justify-content: center;
     display: flex;
     flex-wrap: wrap;
     max-width: 60%;
