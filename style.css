@@ -91,7 +91,7 @@ image-item {
     gap: 40px;
     margin-bottom: 20px;
     margin-top: 20px;
-    max-width: 70%;  /* Limitar el tamaño de las imágenes */
+    max-width: 30%;  /* Limitar el tamaño de las imágenes */
 }
 
 .image-pair img {
