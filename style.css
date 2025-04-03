@@ -53,8 +53,9 @@ main {
     justify-content: center;
     gap: 20px;
     flex-wrap: wrap;
+    max-width: 25%;
+    margin-bottom: 30px;
 }
-
 .image-item img, .image-gallery img {
     display: flex;
     max-width: 100%;
