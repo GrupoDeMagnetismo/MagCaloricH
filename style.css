@@ -48,6 +48,14 @@ main {
 
 
 /* Image Gallery */
+.image-gallery {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 30px;
+    Margins: auto;
+}
+
 .image-item {
     display: flex;
     justify-content: center;
