@@ -204,7 +204,12 @@ footer {
     margin-top: 10px;
 }
 
-/* 🔹 SOCIAL LINKS */
+/* 🔹 Miembros */
+
+.miembros {
+    text-align: left;
+}
+
 .social-links {
     list-style: none;
     padding: 0;
