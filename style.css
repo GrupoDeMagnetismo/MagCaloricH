@@ -163,15 +163,17 @@ footer {
     text-decoration: none;
 }
 
-/* Publications */
+/* Publications
 .publicaciones ol {
     padding-left: 20px;
 }
 .publicaciones ol li {
     margin-bottom: 20px;
     line-height: 1.6;
+} */
+.publicaciones article {
+    text-align: left;
 }
-
 /* News */
 .news article {
     text-align: left;
