@@ -58,8 +58,8 @@ main {
 }
 .image-item img, .image-gallery img {
     justify-content: center;    
-    
-    max-width: 100%;
+    display: flex;
+    max-width: 48%;
     height: auto;
     border-radius: 8px;
     box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
