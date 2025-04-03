@@ -62,7 +62,7 @@ main {
     margin-bottom: 30px;
 }
 .image-item img, .image-gallery img {
-    max-width: 30%;
+    max-width: 60%;
     height: auto;
     border-radius: 8px;
     box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
@@ -79,7 +79,7 @@ main {
 .image-gallery2 {
     display: flex;
     justify-content: center;
-    gap: 30px;
+    /*gap: 30px;*/
     align-items: center; /* Centra las imágenes */
 }
 
