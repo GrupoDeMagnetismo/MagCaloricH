@@ -53,13 +53,13 @@ main {
     justify-content: center;
     gap: 20px;
     flex-wrap: wrap;
-    max-width: 25%;
+    max-width: 105%;
     margin-bottom: 30px;
 }
 .image-item img, .image-gallery img {
     justify-content: center;    
-    display: flex;
-    flex-wrap: wrap;
+    /*display: flex;*/
+    /*flex-wrap: wrap;*/
     max-width: 100%;
     height: auto;
     border-radius: 8px;
