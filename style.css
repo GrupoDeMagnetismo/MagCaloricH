@@ -55,14 +55,8 @@ main {
     flex-wrap: wrap;
 }
 
-.image-item {
-    max-width: 25%;
-    display: flex;
-    justify-content: center; /* Alineación en el centro */
-    gap: 20px;
-    margin-bottom: 30px;
-}
 .image-item img, .image-gallery img {
+    display: flex;
     max-width: 100%;
     height: auto;
     border-radius: 8px;
