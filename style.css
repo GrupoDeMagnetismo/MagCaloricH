@@ -1,5 +1,4 @@
-<body>
-    /* 🔹 GENERAL STYLES */
+/* General Styles */
 body {
     font-family: Arial, sans-serif;
     margin: 0;
@@ -8,41 +7,37 @@ body {
     text-align: center;
 }
 
-/* 🔹 HEADER */
+/* Header */
 header {
     background: #333;
     color: #fff;
     padding: 15px 0;
 }
 
-/* 🔹 NAVIGATION */
+/* Navigation */
 nav ul {
     list-style: none;
     padding: 0;
-    display: flex;
-    justify-content: center;
 }
-
 nav ul li {
+    display: inline;
     margin: 0 15px;
 }
-
 nav ul li a {
     color: white;
     text-decoration: none;
 }
 
-/* 🔹 MAIN CONTENT */
+/* Main Content */
 main {
     padding: 20px;
 }
 
-/* 🔹 IMAGE CONTAINER */
+/* Image Container */
 .image-container {
     margin: 20px auto;
     width: 80%;
 }
-
 .image-container img {
     width: 100%;
     max-width: 600px;
@@ -51,102 +46,54 @@ main {
     box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
 }
 
-/* 🔹 IMAGE GALLERIES */
-
-/* 🔹 Galería 1 - Imágenes más pequeñas */
+/* Image Gallery */
 .image-gallery {
     text-align: center;
     display: flex;
     justify-content: center;
-    gap: 30px;
+    gap: 20px;
     flex-wrap: wrap;
-    background-color: #ffffff; /* Fondo blanco */
-    padding: 15px;
-    border-radius: 8px;
 }
-
-.image-gallery img {
-    max-width: 55%;  /* Más pequeñas */
-    height: auto;
-    border-radius: 8px;
-    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
-}
-
-.image-gallery img:hover {
-    transform: scale(1.08);
-    box-shadow: 4px 4px 15px rgba(0, 0, 0, 0.2);
-    z-index: 10;
-}
-
-/* 🔹 Galería 2 - Imágenes más grandes */
-.image-gallery2 {
-    text-align: center;
+.image-pair {
     display: flex;
     justify-content: center;
-    gap: 30px;
-    flex-wrap: wrap;
-    background-color: #f0f0f0; /* Fondo gris claro */
-    padding: 15px;
-    border-radius: 8px;
+    gap: 10px;
+    margin-bottom: 10px;
 }
-
-.image-gallery2 img {
-    max-width: 65%;  /* Más grandes */
-    height: auto;
-    border-radius: 10px;
-    box-shadow: 3px 3px 12px rgba(0, 0, 0, 0.15);
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
-}
-
-.image-gallery2 img:hover {
-    transform: scale(1.12);
-    box-shadow: 5px 5px 18px rgba(0, 0, 0, 0.25);
-    z-index: 10;
-}
-
-
-/* Portada */
-.image-portada {
-    display: flex;
-    justify-content: center;
-    gap: 40px;
-    margin-bottom: 5px;
-    margin-top: 5px;
-}
-
-.image-portada img {
-    max-width: 55%;
+.image-pair img, .image-gallery img {
+    max-width: 100%;
     height: auto;
     border-radius: 8px;
     box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
     transition: transform 0.3s ease;
 }
-
-.image-portada img:hover {
+.image-pair img:hover, .image-gallery img:hover {
     transform: scale(1.1);
     z-index: 10;
 }
+.caption {
+    font-size: 1.2em;
+    font-weight: bold;
+    margin-top: 10px;
+}
 
-/* 🔹 CONTENT SECTIONS */
+/* Content Sections */
 .content {
     text-align: left;
     max-width: 800px;
     margin: auto;
     padding: 20px;
 }
-
 section:nth-child(even) {
     background-color: #ffffff;
     transition: background-color 0.5s ease-in-out;
 }
-
 section:nth-child(odd) {
     background-color: #f0f0f0;
     transition: background-color 0.5s ease-in-out;
 }
 
-/* 🔹 FOOTER */
+/* Footer */
 footer {
     background: #333;
     color: white;
@@ -155,32 +102,29 @@ footer {
     width: 100%;
 }
 
-/* 🔹 CONTACT */
+/* Contact */
 .contacto {
     margin-top: 20px;
 }
-
 .contacto a {
     color: #fff;
     text-decoration: none;
 }
 
-/* 🔹 PUBLICATIONS */
+/* Publications */
 .publicaciones ol {
     padding-left: 20px;
 }
-
 .publicaciones ol li {
     margin-bottom: 20px;
     line-height: 1.6;
 }
 
-/* 🔹 IMAGE SECTION */
+/* Image Section */
 .imagenes {
     margin-top: 30px;
     text-align: center;
 }
-
 .imagenes h2 {
     color: #333;
     font-size: 1.5em;
@@ -189,39 +133,30 @@ footer {
 
 .image-item {
     text-align: center;
-    max-width: 50%;
+    max-width: 350px;
 }
-
 .image-item p {
-    margin-top: 20px;
+    margin-top: 10px;
     font-size: 1.1em;
     color: #333;
 }
-
 .image-item p:last-child {
     font-size: 0.95em;
     color: #555;
-    margin-top: 10px;
+    margin-top: 5px;
 }
 
-/* 🔹 Miembros */
-
-.miembros {
-    text-align: left;
-}
-
+/* Social Links */
 .social-links {
     list-style: none;
     padding: 0;
 }
-
 .social-links li {
     display: flex;
     align-items: center;
     gap: 8px;
     margin-bottom: 10px;
 }
-
 .social-links a {
     text-decoration: none;
     color: #333;
@@ -229,13 +164,9 @@ footer {
     display: flex;
     align-items: center;
 }
-
 .social-links a i {
     margin-right: 8px;
 }
-
 .social-links a:hover {
     color: #007bff;
 }
-
-</body>
