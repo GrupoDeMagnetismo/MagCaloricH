@@ -154,7 +154,7 @@ footer .logos {
 }
 
 footer .logos img {
-    height: 40px; /* Altura uniforme */
+    height: 60px; /* Altura uniforme */
     width: auto;  /* Mantiene proporción */
 }
 
