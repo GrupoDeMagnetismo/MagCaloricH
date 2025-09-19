@@ -140,9 +140,30 @@ footer {
     background: #333;
     color: white;
     padding: 20px 0;
-    position: relative;
     width: 100%;
+    text-align: center; /* Centra todo el contenido del footer */
 }
+
+/* Logos institucionales */
+footer .logos {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;       /* Espacio entre cada logo */
+    margin-bottom: 10px; /* Separación antes del texto */
+}
+
+footer .logos img {
+    height: 30px; /* Altura uniforme */
+    width: auto;  /* Mantiene proporción */
+}
+
+/* Contacto */
+footer .contacto a {
+    color: #fff;
+    text-decoration: none;
+}
+
 
 /* Contact */
 .contacto {
