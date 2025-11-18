@@ -1,4 +1,9 @@
 User-agent: *
-Allow: /
-
+Disallow: /README.md
+Disallow: /.git/
+Disallow: /node_modules/
+Disallow: /tree/
+Disallow: /blob/
+Allow: /EN/
+Allow: /ES/
 Sitemap: https://grupodemagnetismo.github.io/MagCaloricH/sitemap.xml

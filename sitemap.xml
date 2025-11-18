@@ -1,11 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
-<url>
- <loc>https://grupodemagnetismo.github.io/MagCaloricH/EN/index.html</loc>
-</url>
-<url>
- <loc>https://grupodemagnetismo.github.io/MagCaloricH/ES/índice.html</loc>
-</url>
-
+   <url>
+      <loc>https://grupodemagnetismo.github.io/MagCaloricH/EN/index.html</loc>
+      <priority>1.0</priority>
+   </url>
+   <url>
+      <loc>https://grupodemagnetismo.github.io/MagCaloricH/ES/indice.html</loc>
+      <priority>1.0</priority>
+   </url>
+   <url>
+      <loc>https://grupodemagnetismo.github.io/MagCaloricH/EN/noticias.html</loc>
+      <priority>0.8</priority>
+   </url>
+   <url>
+      <loc>https://grupodemagnetismo.github.io/MagCaloricH/ES/noticias.html</loc>
+      <priority>0.8</priority>
+   </url>
+   <url>
+      <loc>https://grupodemagnetismo.github.io/MagCaloricH/EN/publicaciones.html</loc>
+      <priority>0.7</priority>
+   </url>
+   <url>
+      <loc>https://grupodemagnetismo.github.io/MagCaloricH/ES/publicaciones.html</loc>
+      <priority>0.7</priority>
+   </url>
+   <url>
+      <loc>https://grupodemagnetismo.github.io/MagCaloricH/EN/enlaces.html</loc>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://grupodemagnetismo.github.io/MagCaloricH/ES/enlaces.html</loc>
+      <priority>0.5</priority>
+   </url>
 </urlset>
