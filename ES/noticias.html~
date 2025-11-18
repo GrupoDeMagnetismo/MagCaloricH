@@ -31,20 +31,14 @@
     <main>
         <section class="noticias">
 
-            <article>
-                <h3>18/11/2025</h3>
-                <p>Enhorabuena a nuestro equipe, y espectialmente a A. Sanz-Prada, por ee articulo aceptado en <em>Journal of Materials Chemistry C</em>:</p>
-                <p><strong>Promising magnetocaloric performance of nanostructured GdFeSi intermetallic ribbons for efficient natural gas liquefaction purposes</strong></p>
-                <p><em>Authors:</em> Alba Sanz-Prada, Pablo Alvarez-Alonso, Jose L. Sánchez Llamazares, Luis Escobedo, Jose S. Garitaonandia, Pedro Gorria, Jesús A. Blanco & Javier López-García</p>
-                <p><em>Manuscript DOI:</em> 10.1039/D5TC02968F <em>Status:</em> Accepted</p>
-            </article>   
+            <!-- 🔹 Última noticia añadida -->
             <article>
                 <h3>25/09/2025</h3>
                 <p>Nos complace anunciar que nuestro artículo</p>
                 <p><strong>Delving into the correlation between magnetic and lattice degrees of freedom from magnetocaloric and magnetovolume effects in Lu<sub>2</sub>Fe<sub>17</sub> ribbons</strong></p>
                 ha sido aceptado en <em>The Journal of Physical Chemistry C</em>
                 <p><em>Authors:</em> José Garrido-Álvarez, María Arreguín Hernández, Cristina Echevarría Bonet, Pedro Gorria, Inés Puente Orench, François Fauth, Jesús Blanco, José Luis Sánchez Llamazares, Pablo Álvarez-Alonso</p>
-                <p><em>Manuscript ID:</em> jp-2025-04207h — <em>Status:</em> Accepted</p>
+                <p><em>Manuscript ID:</em> jp-2025-04207h — <em>Status:</em> Accept</p>
             </article>
 
             <article>

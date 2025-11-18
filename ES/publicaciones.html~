@@ -1,9 +1,9 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Publications - MagCaloricH</title>
+    <title>Publicaciones - MagCaloricH</title>
     <link rel="stylesheet" href="../style.css">
 </head>
 <body>
@@ -11,26 +11,25 @@
         <h1>MagCaloricH</h1>
         <nav>
             <ul>
-                <li><a href="index.html">Home</a></li>
-                <li><a href="news.html">News</a></li>
-                <li><a href="members.html">Members</a></li>
-                <li><a href="links.html">Links</a></li>
-                <li><a href="#contact">Contact</a></li>
-                <li><a href="publications.html">Publications</a></li>
-                <li class="lang-switch"><a href="../ES/publicaciones.html"><img src="https://github.com/GrupoDeMagnetismo/MagCaloricH/blob/GrupoDeMagnetismo-Pictures/bandera_SP.jpg?raw=true" alt="Español" style="height:20px;"></a></li>
+                <li><a href="indice.html">Inicio</a></li>
+                <li><a href="noticias.html">Noticias</a></li>
+                <li><a href="miembros.html">Miembros</a></li>
+                <li><a href="enlaces.html">Enlaces</a></li>
+                <li><a href="#contacto">Contacto</a></li>
+                <li><a href="publicaciones.html">Publicaciones</a></li>
+                <li class="lang-switch">
+                    <a href="../EN/publications.html">
+                        <img src="https://github.com/GrupoDeMagnetismo/MagCaloricH/blob/GrupoDeMagnetismo-Pictures/bandera_UK.jpg?raw=true" alt="English">
+                    </a>
+                </li>
             </ul>
         </nav>
     </header>
-    
+
     <main>
         <section class="publicaciones">
-            <h2>Publications</h2>
+            <h2>Publicaciones</h2>
             <ol>
-                <li>
-                    Sanz-Prada, A., Alvarez-Alonso, P., Sánchez Llamazares, J.L., Escobedo, L.,  Garitaonandia, J.S., Gorria, Pedro, Blanco, J.A., & López-García, J. Promising magnetocaloric performance of nanostructured GdFeSi
-intermetallic ribbons for efficient natural gas liquefaction purposes. <i>Journal of Materials Chemistry C</i> (2025). 
-                    <a href="https://pubs.rsc.org/en/content/articlepdf/2025/TC/D5TC02968F?page=search" target="_blank">https://pubs.rsc.org/en/content/articlepdf/2025/TC/D5TC02968F?page=search</a>
-                </li>
                 <li>
                     Garrido Álvarez, J. L., Arreguín-Hernández, M. L., Echevarría-Bonet, C., Gorria, P., Puente-Orench, I., Fauth, F., Blanco, J. A., Sánchez Llamazares, J. L., & Álvarez-Alonso, P. Delving into the correlation between magnetic and lattice degrees of freedom from magnetocaloric and magnetovolume effects in Lu2Fe17 ribbons. <i>The Journal of Physical Chemistry C</i>,  129 (2025) 18685–18694. 
                     <a href="https://doi.org/10.1021/acs.jpcc.5c04207" target="_blank">https://doi.org/10.1021/acs.jpcc.5c04207</a>
@@ -51,10 +50,10 @@ intermetallic ribbons for efficient natural gas liquefaction purposes. <i>Journa
             </ol>
         </section>
     </main>
-    
+
     <footer>
         <p>&copy; 2025 MagCaloricH</p>
-        <div class="contacto" id="contact">
+        <div class="contacto" id="contacto">
             <p>Contacto: Pablo Álvarez-Alonso - <a href="mailto:alvarezapablo@uniovi.es">alvarezapablo@uniovi.es</a></p>
             <p><a href="https://nanobioap.org/uniovi_magnes/" target="_blank">Grupo de Materiales Magnéticos. Universidad de Oviedo</a></p>
         </div>
@@ -63,7 +62,7 @@ intermetallic ribbons for efficient natural gas liquefaction purposes. <i>Journa
             <img src="https://github.com/GrupoDeMagnetismo/MagCaloricH/blob/GrupoDeMagnetismo-Pictures/Ministerio.jpeg?raw=true" alt="Ministerio">
             <img src="https://github.com/GrupoDeMagnetismo/MagCaloricH/blob/GrupoDeMagnetismo-Pictures/Uniovi.jpeg?raw=true" alt="Universidad de Oviedo">
         </div>
-        <p class="footer-text">Project funded by FEDER and the Ministry of Science and Innovation.</p>
+        <p class="footer-text">Proyecto financiado por fondos FEDER, Ministerio de Ciencia e Innovación.</p>
     </footer>
 </body>
 </html>
