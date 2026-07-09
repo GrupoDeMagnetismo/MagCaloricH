@@ -1,3 +1,11 @@
+<<<<<<< HEAD
+ES/.DS_Store
+.DS_Store
+EN/news.html~
+EN/publications.html~
+ES/noticias.html~
+ES/publicaciones.html~
+=======
 # Archivos del sistema
 .DS_Store
 Thumbs.db
@@ -18,3 +26,4 @@ EN/index.html~
 Index copia.html
 *.html~
 *.xml~
+>>>>>>> 81cced0ee3d36df17fcd221c165b82cb918692bf
